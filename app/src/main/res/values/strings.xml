@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">pertemuan6</string>
+    <string name="app_name">Pertemuan 6 Camera X</string>
+    <string name="take_photo">Tangkap Photo</string>
+    <string name="start_capture">Mulai Tangkap</string>
+    <string name="stop_capture">Stop Capture</string>
+    //kode diatas untuk menyiapkan data teks
 </resources>
